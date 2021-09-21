@@ -1,7 +1,7 @@
 # Sistema para o Governo de auxilio em dinheiro mensal aos Brasileiros
 ## PROVA UNISOCIESC 
-Sistema envolvendo uma fila Simples com regras de negocios gerais e especificas 
-####A pandemia do Coronavírus tem causado preocupação aos empregados e empregadores 
+### Sistema envolvendo uma fila Simples com regras de negocios gerais e especificas 
+#### A pandemia do Coronavírus tem causado preocupação aos empregados e empregadores 
 em razão da redução drástica do movimento no comércio e indústria. Para isso, o governo de um determinado 
 país decidiu ajudar essas pessoas, e dará um auxílio em dinheiro mensalmente conforme algumas regras. 
 Desenvolva um sistema que ajudará a calcular qual o valor e por quanto tempo o governo ajudará essas pessoas.
