@@ -35,7 +35,7 @@ As regras acima são obrigatórias para todos os casos;
 
  
 
-III - Regras de negócio Específicas (Cada regra deverá ser um subprograma ou método separado):
+III - Regras de negócio Específicas:
 
 
 C - Para empregadores que tenham até 50 funcionários haverá um acréscimo de 10% sobre o valor total;
